@@ -29,57 +29,35 @@
 ### 🗂️ Structure des pages
 
 - **Home** : Accueil, accès rapide aux fonctionnalités principales.
-- **Audio Focus** : Sélection et lecture de flux Lofi.
+- **Lofi Music** : Sélection et lecture de flux Lofi.
 - **Time Blocking** : Configuration des sessions de travail.
-- **Dashboard** : Statistiques et suivi des performances.
-- **Profil / Paramètres** : Gestion du compte et préférences.
+- **Dev Stats** : Statistiques et suivi des performances.
+- **Dev Quote Page** : Affichage de citations de développeurs pour maintenir la motivation et encourager l’utilisateur pendant ses sessions.
 
 ### 🔗 Logique
 
 - Navigation intuitive avec accès direct aux fonctionnalités prioritaires.
 - Pages organisées pour réduire la charge cognitive.
-- Feedback immédiat sur les actions de l’utilisateur.
 
 ## 🎨 UI Design System
 
 ### 🎨 Couleurs
 
-- Primary : #4CAF50 (vert concentré)
-- Secondary : #FF9800 (accent motivant)
+- Primary : #1567ff
+- Secondary : #f9f9f9
 - Background : #FFFFFF
-- Text : #212121
+- Text : #212121 (#FFFFFF sans certains Card)
 
 ### 🔤 Typographie
 
-- Font principale : Roboto
-- Heading : 24–32px, bold
+- Font principale : Inter
+- Heading : 24–32px, regular
 - Body : 16px, regular
-- Button : 14–16px, medium
+- Button : 14–16px, regular
 
 ### 📏 Spacing
 
 - Système de 8px pour marges, paddings et gutters.
-
-### 🧱 Composants UI
-
-#### 🔘 Buttons
-
-- Primary : Action principale
-- Secondary : Action secondaire
-- Disabled : Non interactif
-
-#### ⌨️ Inputs
-
-- Text, Password
-- States : Default, Focus, Error
-
-#### 🧾 Cards
-
-- Affichage des flux audio, sessions, statistiques
-
-#### 📦 Modals
-
-- Confirmation, Alertes, Tips
 
 ## 📱 Maquettes Figma
 
@@ -100,7 +78,7 @@
 
 - Présentation rapide des outils et sessions récentes.
 
-### 🔊 Audio Focus
+### 🔊 Lofi Music
 
 - Sélection de flux Lofi optimisés pour la concentration.
 
@@ -112,38 +90,9 @@
 
 - Suivi des statistiques, streaks, et performances.
 
-### ⭐ Citations / Engagement
+### ⭐ Dev Quote Page
 
 - Motivation quotidienne et encouragement à maintenir le flow.
-
-
-## ⚙️ Developer Handoff
-
-### 📐 Grid System
-
-- 12 colonnes, marges : 16px, gutters : 8px
-
-### 📱 Responsive
-
-- Mobile : 360–768px
-- Tablet : 768–1024px
-- Desktop : >1024px
-
-### 🔁 États des composants
-
-- Hover, Active, Focus, Disabled, Loading
-
-### 🏷️ Naming
-
-- Buttons : btn-primary, btn-secondary
-- Inputs : input-text, input-error
-- Cards : card-default
-
-## 🔄 Interactions & Animations
-
-- Transitions fluides 0.3s pour boutons et pages
-- Feedback visuel lors de l’action utilisateur
-- Animations légères pour améliorer le flow et engagement
 
 ## 🧪 UX Improvements
 
@@ -160,23 +109,8 @@
 
 ## 📎 Assets
 
-- Icônes : SVG
-- Images : PNG
-- Typographie : Roboto
-- Export Figma pour dev : tous les composants et screens
-
-## 👨‍💻 Collaboration
-
-### Pour les développeurs
-
-- Inspecter Figma pour dimensions, couleurs, composants
-- Respecter Design System
-- Implémenter transitions et états UI
-
-### Pour les clients
-
-- Accéder à Figma et commenter
-- Valider écrans clés et parcours utilisateur
+- Icônes : PNG
+- Typographie : Inter
 
 ## 🚀 Roadmap
 
@@ -192,19 +126,3 @@
 DevVibe repose sur le principe que **la discipline surpasse la motivation éphémère**. Il aide les utilisateurs à construire des habitudes solides, suivre leur progression et transformer la contrainte du développement en un processus fluide et gratifiant.
 
 > _"L'action n'est pas seulement la conséquence de la motivation ; elle en est également la source."_
-
-## 🤝 Contribution
-
-1. Soumission de bugs
-2. Proposition de fonctionnalités
-3. Optimisation du code ou UI
-4. Documentation et traduction
-
----
-
-## 🌟 Soutien
-
-Si DevVibe vous aide, vous pouvez :
-
-- Ajouter une étoile au dépôt GitHub
-- Partager l’application avec votre réseau
