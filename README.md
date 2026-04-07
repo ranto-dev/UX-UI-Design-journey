@@ -22,7 +22,11 @@
 
 ## 🧠 UX Research
 
+Fichier Excel : [UX research.ods](/UX%20research.ods)
+
 ## 🔀 User Flow
+
+Illustration: [userFlowIllustration.png]()
 
 ## 🧩 Information Architecture
 
@@ -43,7 +47,7 @@
 
 ### 🎨 Couleurs
 
-- Primary : #1567ff
+- Primary : #1567FF
 - Secondary : #f9f9f9
 - Background : #FFFFFF
 - Text : #212121 (#FFFFFF sans certains Card)
@@ -51,7 +55,7 @@
 ### 🔤 Typographie
 
 - Font principale : Inter
-- Heading : 24–32px, regular
+- Heading : 24–32px, medium
 - Body : 16px, regular
 - Button : 14–16px, regular
 
@@ -62,15 +66,6 @@
 ## 📱 Maquettes Figma
 
 🔗 Lien Figma : https://www.figma.com/design/YPUgjSmRabYMeozNusGmhW/DevVibe
-
-### Pages principales
-
-- Onboarding
-- Accueil / Home
-- Audio Focus
-- Time Blocking
-- Dashboard
-- Profil / Paramètres
 
 ## 🖼️ Écrans clés
 
@@ -86,7 +81,7 @@
 
 - Gestion de sessions de travail et pauses programmées.
 
-### 📊 Dashboard
+### 📊 Dev Stats
 
 - Suivi des statistiques, streaks, et performances.
 
@@ -97,7 +92,6 @@
 ## 🧪 UX Improvements
 
 - Tests utilisateurs pour optimiser les parcours
-- Affinage des suggestions audio et segments de temps
 - Amélioration de la visualisation des statistiques
 
 ## ♿ Accessibilité
@@ -105,21 +99,11 @@
 - Contraste des couleurs respecté
 - Taille de texte lisible
 - Navigation simple et intuitive
-- Lecture audio compatible avec système de notifications
 
 ## 📎 Assets
 
 - Icônes : PNG
 - Typographie : Inter
-
-## 🚀 Roadmap
-
-- Migration du stockage local vers API audio
-- Gestion des favoris et playlists personnalisées
-- Lecture audio via notifications
-- Visualisation avancée des statistiques
-- Synchronisation avec GitHub
-- Refonte UI selon Material Design
 
 ## 💡 Philosophie du projet
 
