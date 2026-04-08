@@ -1,113 +1,113 @@
-# 📘 Documentation UX/UI — DevVibe
+# 📘 UX/UI Documentation — DevVibe
 
 ## 🚀 Product Overview
 
 ### 💡 Concept
 
-**DevVibe** est une application mobile open-source conçue pour **optimiser l'environnement de travail des développeurs et créateurs**. Elle agit sur les leviers de concentration et de discipline pour instaurer une atmosphère propice à la productivité et à l'état de "flow".
+**DevVibe** is an open-source mobile application designed to **optimize the workspace for developers and creators**. It focuses on focus-driven triggers and discipline to foster an environment conducive to productivity and the "flow state."
 
-> _Optimisez votre code. Approfondissez votre concentration. Maîtrisez votre environnement._
+> _Optimize your code. Deepen your focus. Master your environment._
 
-### 🎯 Objectifs
+### 🎯 Objectives
 
-- Aider les utilisateurs à démarrer leurs sessions de travail rapidement et efficacement.
-- Réduire les interruptions et les barrières psychologiques liées au travail concentré.
-- Fournir des outils simples pour la structuration du temps et le suivi de la performance.
+- Empower users to initiate work sessions quickly and efficiently.
+- Minimize interruptions and psychological barriers to deep work.
+- Provide streamlined tools for time blocking and performance tracking.
 
-### 👥 Cible
+### 👥 Target Audience
 
-- Développeurs et créateurs travaillant sur des projets complexes.
-- Utilisateurs souhaitant améliorer leur discipline et concentration.
-- Toute personne intéressée par la gestion du temps et le suivi de performance personnelle.
+- Developers and creators working on complex projects.
+- Users looking to improve self-discipline and concentration.
+- Individuals interested in time management and personal performance metrics.
 
 ## 🧠 UX Research
 
-Fichier Excel : [UX Research.xlsx](/UX%20Research.xlsx)
+Excel Data File: [UX Research.xlsx](https://www.google.com/search?q=/UX%2520Research.xlsx)
 
 ## 🔀 User Flow
 
-l'illustration de l'User Flow pour l'UX Personna 1 : [UX Persona 1 User FLOW.png](UX%20Persona%201%20User%20FLOW.png)
-l'illustration de l'User Flow pour l'UX Personna 2 : [UX Persona 2 User FLOW.png](/UX%20Persona%202%20User%20FLOW.png.png)
+- User Flow Illustration - Persona 1: [UX Persona 1 User FLOW.png](https://www.google.com/search?q=UX%2520Persona%25201%2520User%2520FLOW.png)
+- User Flow Illustration - Persona 2: [UX Persona 2 User FLOW.png](https://www.google.com/search?q=/UX%2520Persona%25202%2520User%2520FLOW.png)
 
 ## 🧩 Information Architecture
 
-### 🗂️ Structure des pages
+### 🗂️ Page Structure
 
-- **Home** : Accueil, accès rapide aux fonctionnalités principales.
-- **Lofi Music** : Sélection et lecture de flux Lofi.
-- **Time Blocking** : Configuration des sessions de travail.
-- **Dev Stats** : Statistiques et suivi des performances.
-- **Dev Quote Page** : Affichage de citations de développeurs pour maintenir la motivation et encourager l’utilisateur pendant ses sessions.
+- **Home**: Dashboard with quick access to core features.
+- **Lofi Music**: Selection and playback of curated Lofi streams.
+- **Time Blocking**: Work session configuration and scheduling.
+- **Dev Stats**: Analytics and performance tracking.
+- **Dev Quotes**: Curated motivational developer quotes to encourage users during deep work sessions.
 
-### 🔗 Logique
+### 🔗 Logic & Navigation
 
-- Navigation intuitive avec accès direct aux fonctionnalités prioritaires.
-- Pages organisées pour réduire la charge cognitive.
+- Intuitive navigation with direct access to high-priority features.
+- Page layouts engineered to reduce cognitive load.
 
 ## 🎨 UI Design System
 
-### 🎨 Couleurs
+### 🎨 Color Palette
 
-- Primary : #1567FF
-- Secondary : #f9f9f9
-- Background : #FFFFFF
-- Text : #212121 (#FFFFFF sans certains Card)
+- **Primary**: \#1567FF
+- **Secondary**: \#F9F9F9
+- **Background**: \#FFFFFF
+- **Text**: \#212121 (Switching to \#FFFFFF on specific cards)
 
-### 🔤 Typographie
+### 🔤 Typography
 
-- Font principale : Inter
-- Heading : 24–32px, medium
-- Body : 16px, regular
-- Button : 14–16px, regular
+- **Primary Font**: Inter
+- **Headings**: 24–32px, Medium
+- **Body**: 16px, Regular
+- **Buttons**: 14–16px, Regular
 
-### 📏 Spacing
+### 📏 Spacing & Grid
 
-- Système de 8px pour marges, paddings et gutters.
+- 8px grid system applied to margins, padding, and gutters.
 
-## 📱 Maquettes Figma
+## 📱 Figma Mockups
 
-🔗 Lien Figma : https://www.figma.com/design/YPUgjSmRabYMeozNusGmhW/DevVibe
+🔗 View Figma Design: https://www.figma.com/design/YPUgjSmRabYMeozNusGmhW/DevVibe
 
-## 🖼️ Écrans clés
+## 🖼️ Key Screens
 
 ### 🏠 Home
 
-- Présentation rapide des outils et sessions récentes.
+A high-level overview of tools and recent session history.
 
 ### 🔊 Lofi Music
 
-- Sélection de flux Lofi optimisés pour la concentration.
+Selection of Lofi streams optimized for sustained concentration.
 
 ### ⏱️ Time Blocking
 
-- Gestion de sessions de travail et pauses programmées.
+Management of scheduled work blocks and recovery breaks.
 
 ### 📊 Dev Stats
 
-- Suivi des statistiques, streaks, et performances.
+Visual tracking of statistics, streaks, and long-term performance.
 
 ### ⭐ Dev Quote Page
 
-- Motivation quotidienne et encouragement à maintenir le flow.
+Daily motivation and encouragement to maintain the flow.
 
 ## 🧪 UX Improvements
 
-- Tests utilisateurs pour optimiser les parcours
-- Amélioration de la visualisation des statistiques
+- Iterative user testing to optimize user journeys.
+- Enhanced data visualization for statistics.
 
-## ♿ Accessibilité
+## ♿ Accessibility (A11y)
 
-- Contraste des couleurs respecté
-- Taille de texte lisible
-- Navigation simple et intuitive
+- Strict adherence to color contrast ratios.
+- Legible typography and font scaling.
+- Simple, intuitive navigation patterns.
 
 ## 📎 Assets
 
-- Icônes : PNG
-- Typographie : Inter
+- **Icons**: PNG format
+- **Typography**: Inter Family
 
-## 💡 Philosophie du projet
+## 💡 Project Philosophy
 
-DevVibe repose sur le principe que **la discipline surpasse la motivation éphémère**. Il aide les utilisateurs à construire des habitudes solides, suivre leur progression et transformer la contrainte du développement en un processus fluide et gratifiant.
+DevVibe is built on the principle that **discipline outweighs fleeting motivation**. The app helps users build sustainable habits, track their progress, and transform the rigor of development into a fluid, rewarding process.
 
-> _"L'action n'est pas seulement la conséquence de la motivation ; elle en est également la source."_
+> _"Action is not just the consequence of motivation; it is also the source of it."_
