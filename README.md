@@ -26,7 +26,8 @@ Fichier Excel : [UX Research.xlsx](/UX%20Research.xlsx)
 
 ## 🔀 User Flow
 
-Illustration: [userFlowIllustration.png]()
+l'illustration de l'User Flow pour l'UX Personna 1 : [UX Persona 1 User FLOW.png](UX%20Persona%201%20User%20FLOW.png)
+l'illustration de l'User Flow pour l'UX Personna 2 : [UX Persona 2 User FLOW.png](/UX%20Persona%202%20User%20FLOW.png.png)
 
 ## 🧩 Information Architecture
 
